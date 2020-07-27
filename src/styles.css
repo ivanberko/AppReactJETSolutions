@@ -20,3 +20,9 @@ body {
   text-align: center;
   background: linear-gradient(90deg, #11998e, #38ef7d);
 }
+
+#root {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
