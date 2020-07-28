@@ -1,7 +1,8 @@
 {
-  "name": "weather-app-react-redux",
+  "name": "app-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/ivanberko/App_React_JET-Solutions",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "gh-pages": "^2.2.0",
@@ -14,9 +15,7 @@
     "react-transition-group": "^4.4.1",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
-    "styled-components": "^5.1.1",
-    "use-debounce": "^3.4.3",
-    "use-throttle": "0.0.3"
+    "styled-components": "^5.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
