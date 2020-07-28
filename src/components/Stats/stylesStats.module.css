@@ -1,0 +1,13 @@
+.container {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.container h4 {
+  margin: 0;
+}
+
+.container h4 span {
+  font-weight: 400;
+  font-size: 20px;
+}
