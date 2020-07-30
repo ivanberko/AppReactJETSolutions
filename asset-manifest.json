@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ivanberko/App_React_JET-Solutions/static/css/main.23b8aa6d.chunk.css",
-    "main.js": "/ivanberko/App_React_JET-Solutions/static/js/main.0ee53ce1.chunk.js",
-    "main.js.map": "/ivanberko/App_React_JET-Solutions/static/js/main.0ee53ce1.chunk.js.map",
-    "runtime-main.js": "/ivanberko/App_React_JET-Solutions/static/js/runtime-main.44e4513d.js",
-    "runtime-main.js.map": "/ivanberko/App_React_JET-Solutions/static/js/runtime-main.44e4513d.js.map",
-    "static/js/2.ed71608d.chunk.js": "/ivanberko/App_React_JET-Solutions/static/js/2.ed71608d.chunk.js",
-    "static/js/2.ed71608d.chunk.js.map": "/ivanberko/App_React_JET-Solutions/static/js/2.ed71608d.chunk.js.map",
+    "main.js": "/ivanberko/App_React_JET-Solutions/static/js/main.63ba3061.chunk.js",
+    "main.js.map": "/ivanberko/App_React_JET-Solutions/static/js/main.63ba3061.chunk.js.map",
+    "runtime-main.js": "/ivanberko/App_React_JET-Solutions/static/js/runtime-main.7f39b837.js",
+    "runtime-main.js.map": "/ivanberko/App_React_JET-Solutions/static/js/runtime-main.7f39b837.js.map",
+    "static/js/2.23484824.chunk.js": "/ivanberko/App_React_JET-Solutions/static/js/2.23484824.chunk.js",
+    "static/js/2.23484824.chunk.js.map": "/ivanberko/App_React_JET-Solutions/static/js/2.23484824.chunk.js.map",
     "index.html": "/ivanberko/App_React_JET-Solutions/index.html",
-    "precache-manifest.023f3db0142b769b3dc8e7578268851e.js": "/ivanberko/App_React_JET-Solutions/precache-manifest.023f3db0142b769b3dc8e7578268851e.js",
+    "precache-manifest.cc1d52d0a6d80f2ce2ddb4b7e5317ca9.js": "/ivanberko/App_React_JET-Solutions/precache-manifest.cc1d52d0a6d80f2ce2ddb4b7e5317ca9.js",
     "service-worker.js": "/ivanberko/App_React_JET-Solutions/service-worker.js",
     "static/css/main.23b8aa6d.chunk.css.map": "/ivanberko/App_React_JET-Solutions/static/css/main.23b8aa6d.chunk.css.map",
-    "static/js/2.ed71608d.chunk.js.LICENSE.txt": "/ivanberko/App_React_JET-Solutions/static/js/2.ed71608d.chunk.js.LICENSE.txt"
+    "static/js/2.23484824.chunk.js.LICENSE.txt": "/ivanberko/App_React_JET-Solutions/static/js/2.23484824.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.44e4513d.js",
-    "static/js/2.ed71608d.chunk.js",
+    "static/js/runtime-main.7f39b837.js",
+    "static/js/2.23484824.chunk.js",
     "static/css/main.23b8aa6d.chunk.css",
-    "static/js/main.0ee53ce1.chunk.js"
+    "static/js/main.63ba3061.chunk.js"
   ]
 }
