@@ -2,7 +2,7 @@
   "name": "app-react-jet-solutions",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ivanberko/AppReactJETSolutions",
+  "homepage": "https://ivanberko.github.io/AppReactJETSolutions/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "gh-pages": "^2.2.0",
