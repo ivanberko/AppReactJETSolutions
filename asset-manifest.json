@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ivanberko/App_React_JET-Solutions/static/css/main.23b8aa6d.chunk.css",
-    "main.js": "/ivanberko/App_React_JET-Solutions/static/js/main.63ba3061.chunk.js",
-    "main.js.map": "/ivanberko/App_React_JET-Solutions/static/js/main.63ba3061.chunk.js.map",
-    "runtime-main.js": "/ivanberko/App_React_JET-Solutions/static/js/runtime-main.7f39b837.js",
-    "runtime-main.js.map": "/ivanberko/App_React_JET-Solutions/static/js/runtime-main.7f39b837.js.map",
-    "static/js/2.23484824.chunk.js": "/ivanberko/App_React_JET-Solutions/static/js/2.23484824.chunk.js",
-    "static/js/2.23484824.chunk.js.map": "/ivanberko/App_React_JET-Solutions/static/js/2.23484824.chunk.js.map",
-    "index.html": "/ivanberko/App_React_JET-Solutions/index.html",
-    "precache-manifest.cc1d52d0a6d80f2ce2ddb4b7e5317ca9.js": "/ivanberko/App_React_JET-Solutions/precache-manifest.cc1d52d0a6d80f2ce2ddb4b7e5317ca9.js",
-    "service-worker.js": "/ivanberko/App_React_JET-Solutions/service-worker.js",
-    "static/css/main.23b8aa6d.chunk.css.map": "/ivanberko/App_React_JET-Solutions/static/css/main.23b8aa6d.chunk.css.map",
-    "static/js/2.23484824.chunk.js.LICENSE.txt": "/ivanberko/App_React_JET-Solutions/static/js/2.23484824.chunk.js.LICENSE.txt"
+    "main.css": "/AppReactJETSolutions/static/css/main.23b8aa6d.chunk.css",
+    "main.js": "/AppReactJETSolutions/static/js/main.63ba3061.chunk.js",
+    "main.js.map": "/AppReactJETSolutions/static/js/main.63ba3061.chunk.js.map",
+    "runtime-main.js": "/AppReactJETSolutions/static/js/runtime-main.7607cec2.js",
+    "runtime-main.js.map": "/AppReactJETSolutions/static/js/runtime-main.7607cec2.js.map",
+    "static/js/2.23484824.chunk.js": "/AppReactJETSolutions/static/js/2.23484824.chunk.js",
+    "static/js/2.23484824.chunk.js.map": "/AppReactJETSolutions/static/js/2.23484824.chunk.js.map",
+    "index.html": "/AppReactJETSolutions/index.html",
+    "precache-manifest.b0cad7f2120803143b5916feaee547ef.js": "/AppReactJETSolutions/precache-manifest.b0cad7f2120803143b5916feaee547ef.js",
+    "service-worker.js": "/AppReactJETSolutions/service-worker.js",
+    "static/css/main.23b8aa6d.chunk.css.map": "/AppReactJETSolutions/static/css/main.23b8aa6d.chunk.css.map",
+    "static/js/2.23484824.chunk.js.LICENSE.txt": "/AppReactJETSolutions/static/js/2.23484824.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f39b837.js",
+    "static/js/runtime-main.7607cec2.js",
     "static/js/2.23484824.chunk.js",
     "static/css/main.23b8aa6d.chunk.css",
     "static/js/main.63ba3061.chunk.js"
